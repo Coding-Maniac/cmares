@@ -1,0 +1,120 @@
+<html><body>﻿
+<head>
+<title>Examination Result</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Welcome to the Cost Accountants on India web site. We are a premier, dynamic, vibrant professional institution actively associating itself in the industrial" />
+<meta name="keywords" content="icai, About Us , account" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<!--header file code start -->
+					<!--Content area start here -->
+					<!--Search Area Starts here-->	
+					 <div class="content" style="height:950px; width:90%;">				
+					<table width="100%"  cellpadding="0" cellspacing="0" >
+					<tr>
+                      	<td width="25%"   >&nbsp;
+                      	    </td>
+                      	<td   >
+                      	
+      <table width="100%" align="left" cellpadding="0" cellspacing="0" border="0">
+        <tr> 
+          <td  >&nbsp;</td>
+          <td  align="center"> 
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+              <tr> 
+                <td align="center" colspan="3"><img src="images/logo.png" alt="" /></td>
+              </tr>
+            </table>
+            <table width="100%">
+              <tr> 
+                <td align="center" 
+                                 style="font-family:Arial,Helvetica,sans-serif; font-size:13px;"><font style="font-size:18px;font-weight:bold">The 
+                  Institute of Cost Accountants of India</font><br />
+                  (Statutory body under an Act of Parliament)</td>
+              </tr>
+            </table>
+          </td>
+          <td width="15%">&nbsp; </td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp; </td>
+          <td  class="page_heading_text">Foundation December 2020 Term</td>
+          <td>&nbsp; </td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td> </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td >&nbsp;</td>
+          <td class="page_heading_text">Foundation Result </td>
+          <td >&nbsp;</td>
+        </tr>
+        <tr> 
+          <td class="bodytext">&nbsp;</td>
+          <td class="bodytext"> 
+            <ul style="line-height:30px;">
+              <li> <a href="https://eicmai.in/FND-Result/FND_D20-25dew74hh/result.asp" class="link" title="Check your result online" target="_blank" style="color:red"> 
+                Check your result online</a> </li>
+            </ul>
+          </td>
+          <td class="bodytext">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td >&nbsp;</td>
+          <td class="page_heading_text">&nbsp;</td>
+          <td >&nbsp;</td>
+        </tr>
+        <tr> 
+          <td class="bodytext">&nbsp;</td>
+          <td class="bodytext">&nbsp;</td>
+          <td class="bodytext">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td >&nbsp;</td>
+          <td  class="page_heading_text">&nbsp;</td>
+          <td >&nbsp;</td>
+        </tr>
+        <tr> 
+          <td >&nbsp;</td>
+          <td class="bodytext">&nbsp;</td>
+          <td class="bodytext">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+      </div>
+				<!--Search Area Ends here-->
+					<!--Content area ends here -->
+	</table></body>									
+</html>
